@@ -1,0 +1,3 @@
+/SDL/
+/cmake-build-debug/*
+!/cmake-build-debug/sdl.dll
