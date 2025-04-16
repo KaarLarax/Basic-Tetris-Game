@@ -1,0 +1,3 @@
+D:/Users/Carlos Lara/Documents/School/Autodidacta/Programacion/C++ Projects/Simple Tetris/cmake-build-debug/CMakeFiles/Simple_Tetris.dir
+D:/Users/Carlos Lara/Documents/School/Autodidacta/Programacion/C++ Projects/Simple Tetris/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/Carlos Lara/Documents/School/Autodidacta/Programacion/C++ Projects/Simple Tetris/cmake-build-debug/CMakeFiles/rebuild_cache.dir
